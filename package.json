@@ -2,12 +2,6 @@
   "name": "angular2-d3-webpack-demo",
   "version": "0.0.0",
   "description": "single page app, with angular2 d3 charts and an upload .csv button. on Angular 2 Webpack Starter kit featuring Angular 2 (Router, Http, Forms, Services, Tests, E2E, Coverage), Karma, Protractor, Jasmine, Istanbul, TypeScript, and Webpack",
-  "keywords": {
-    "angular2",
-    "d3",
-    "webpack",
-    "typescript"
-  },
   "author": "rafszul <rafszul@gmail.com>",
   "homepage": "http://rafszul.projekt-kreatywa.com/",
   "license": "MIT",
