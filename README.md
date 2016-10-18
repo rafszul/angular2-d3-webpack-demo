@@ -38,7 +38,7 @@ the preprocessors ensure modular css
 
 angular2 rules regarding modular architecture are followed
 
-the repo is ready for tests with mocha and jasmine 'webpack test'
+the repo is ready for tests with karma and jasmine 'webpack test'
 
 >warning: make sure you're using the latest version of node.js and npm
 
