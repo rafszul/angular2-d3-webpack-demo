@@ -25,7 +25,7 @@ This seed repo serves as an Angular 2 starter for anyone looking to get up and r
 
 ```bash
 # clone our repo
-$ git clone https://github.com/preboot/angular2-d3-webpack-demo.git my-app
+$ git clone https://github.com/rafszul/angular2-d3-webpack-demo.git my-app
 
 # change directory to your app
 $ cd my-app
@@ -119,17 +119,17 @@ No, Webpack will add all the needed Javascript bundles as script tags and all th
 
 #### How to include external angular 2 libraries ?
 
-It's simple, just install the lib via npm and import it in your code when you need it. Don't forget that you need to configure some external libs in the [bootstrap](https://github.com/preboot/angular2-d3-webpack-demo/blob/master/src/main.ts) of your application.
+It's simple, just install the lib via npm and import it in your code when you need it. Don't forget that you need to configure some external libs in the [bootstrap](https://github.com/rafszul/angular2-d3-webpack-demo/blob/master/src/main.ts) of your application.
 
 #### How to include external css files such as bootstrap.css ?
 
-Just install the lib and import the css files in [vendor.ts](https://github.com/preboot/angular2-d3-webpack-demo/blob/master/src/vendor.ts). For example this is how to do it with bootstrap:
+Just install the lib and import the css files in [vendor.ts](https://github.com/rafszul/angular2-d3-webpack-demo/blob/master/src/vendor.ts). For example this is how to do it with bootstrap:
 
 ```sh
 npm install bootstrap@next --save
 ```
 
-And in [vendor.ts](https://github.com/preboot/angular2-d3-webpack-demo/blob/master/src/vendor.ts) add the following:
+And in [vendor.ts](https://github.com/rafszul/angular2-d3-webpack-demo/blob/master/src/vendor.ts) add the following:
 
 ```ts
 import 'bootstrap/dist/css/bootstrap.css';
