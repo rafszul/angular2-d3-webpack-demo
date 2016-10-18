@@ -2,7 +2,7 @@
 
 [![Join the chat at https://gitter.im/angular2-d3-webpack-demo/Lobby](https://badges.gitter.im/angular2-d3-webpack-demo/Lobby.svg)](https://gitter.im/angular2-d3-webpack-demo/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-if you want to see the results go to 
+if you want to see the results go to http://frame-maker-chipmunk-48642.netlify.com/
 
 just remember the work is happening kind of now and tomorrow afternoon so it might not feel exactly like a football game.
 
