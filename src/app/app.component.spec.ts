@@ -18,7 +18,7 @@ describe('App', () => {
   it('should have an url', () => {
     let fixture = TestBed.createComponent(AppComponent);
     fixture.detectChanges();
-    expect(fixture.debugElement.componentInstance.url).toEqual('https://github.com/preboot/angular2-d3-webpack-demo');
+    expect(fixture.debugElement.componentInstance.url).toEqual('https://github.com/rafszul/angular2-d3-webpack-demo');
   });
 
 });
