@@ -1,8 +1,5 @@
 # angular2-d3-webpack-demo
 
-[![Dependency Status](https://david-dm.org/preboot/angular2-d3-webpack-demo/status.svg)](https://david-dm.org/preboot/angular2-d3-webpack-demo#info=dependencies) [![devDependency Status](https://david-dm.org/preboot/angular2-d3-webpack-demo/dev-status.svg)](https://david-dm.org/preboot/angular2-d3-webpack-demo#info=devDependencies)
-[![Join the chat at https://gitter.im/preboot/angular2-d3-webpack-demo](https://badges.gitter.im/preboot/angular2-d3-webpack-demo.svg)](https://gitter.im/preboot/angular2-d3-webpack-demo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 **Note: This guide is following the Angular's [Style Guide](http://angular.io/styleguide) so I will be changing conventions here and there eventually. You are free to use your own conventions with this starter.**
 **Note 2: There is no conventions yet for RC5 on the style guide so there will be a future update here for that.**
 
