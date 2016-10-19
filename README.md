@@ -2,11 +2,13 @@
 
 [![Join the chat at https://gitter.im/angular2-d3-webpack-demo/Lobby](https://badges.gitter.im/angular2-d3-webpack-demo/Lobby.svg)](https://gitter.im/angular2-d3-webpack-demo/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-if you want to see the results go to http://frame-maker-chipmunk-48642.netlify.com/
+if you want to see the results go to http://frame-maker-chipmunk-48642.netlify.com/ 
 
-just remember the work is happening kind of now and tomorrow afternoon so it might not feel exactly like a football game.
+>chrome does not support svg's smil animations :(( so if you're on chrome you won't see anything runing just yet (runing in literal sense that is)
 
-so far it's just a seed repo of [angular 2](https://angular.io) and typescript using [webpack](http://webpack.github.io/) for building our files and assisting with boilerplate. we're also using protractor for our end-to-end story and karma for our unit tests.
+and just remember that i'm doing it in my spare time which i don't get that much recently so it might not feel as exciting as a football game.
+
+so far it's just a seed repo of [angular 2](https://angular.io) and typescript using [webpack](http://webpack.github.io/) for building files and assisting with boilerplate. protractor used for end-to-end story and karma for unit tests.
 * best practices in file and application organization for [angular 2](https://angular.io/).
 * ready to go build system using [webpack](https://webpack.github.io/docs/) for working with [typescript](http://www.typescriptlang.org/).
 * testing angular 2 code with [jasmine](http://jasmine.github.io/) and [karma](http://karma-runner.github.io/).
@@ -20,13 +22,7 @@ single page app, with angular2 d3 charts and an "upload .csv" button.
 
 once an user uploads the data a table and two charts are displayed allowing for some edits that are mirrored in the charts or in the table
 
-// maybe some additional views.
-
-// and at first schema for the data
-
-// maybe use  for larger data sets
-
-// or just clone raw instead (
+// maybe some additional views; and at first schema for the data; maybe use  for larger data sets; or just clone raw instead (
 
 if you want to see the code ... you just found it and you probably know what to do next.
 
