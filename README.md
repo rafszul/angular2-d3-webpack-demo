@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Angular2D3WebpackDemo
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.18.
@@ -29,3 +30,11 @@ Run `ng github-pages:deploy` to deploy to Github Pages.
 ## Further help
 
 To get more help on the `angular-cli` use `ng --help` or go check out the [Angular-CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# angular1 D3 Dc'js branch
+
+http://social-worker-appearance-16286.netlify.com/
+
+it will throw out a security error in chrome so use firefox.
+
+>>>>>>> c5f8b5a6959e98b2ce703c6a24628730972bab79
